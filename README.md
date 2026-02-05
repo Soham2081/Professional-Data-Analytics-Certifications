@@ -23,8 +23,6 @@ These certifications form the **foundation of my Data Analyst skillset**.
 Skills: Data Analysis, Business Reporting, Analytical Thinking  
 ![CERTIFIED_DATA_ANALYST_SOHAM_DESAI_page-0001](https://github.com/user-attachments/assets/9aeb3d6c-41a4-4599-9108-550a7406c26b)
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ---
 **Python for Data Analysis**  
@@ -32,8 +30,6 @@ Skills: Data Analysis, Business Reporting, Analytical Thinking
 Skills: Python, Data Cleaning, Data Analysis  
 ![PYTHON_NMD_CERTAFICATES_SOHAM_DESAI_page-0001](https://github.com/user-attachments/assets/62671bab-2bbd-4d9e-8940-72d4384640e1)
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ---
 **SQL for Data Analytics**  
@@ -41,8 +37,6 @@ Skills: Python, Data Cleaning, Data Analysis
 Skills: SQL, Data Extraction, Data Aggregation  
 ![SQL_NMD_CERTAFICATES_SOHAM_DESAI_page-0001](https://github.com/user-attachments/assets/71f9852d-d338-4903-8030-379ec93acec3)
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ---
 **Power BI for Business Intelligence**  
@@ -53,9 +47,6 @@ Skills: Power BI, Dashboards, Business Intelligence
 ---
 
 ## 🏆 Professional Certifications
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-
 
 ### 🔹 Data Analytics & Business Intelligence
 
